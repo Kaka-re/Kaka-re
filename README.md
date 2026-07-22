@@ -25,7 +25,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 data-importer="text" align="left">🛠 Ferramentas </h3>
 
 ###
 
@@ -36,10 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
 
