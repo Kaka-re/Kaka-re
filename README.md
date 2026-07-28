@@ -1,6 +1,8 @@
 <h2 data-importer="text" align="center">Olá! Sou a Karina.</h2>
 
+<p data-importer="text" align="left"> 👩‍💻 Sobre mim<br><br>🎓 Graduada em Direito e aprovada no Exame da OAB.<br><br>🔐 Estudante de Segurança da Informação, com interesse em Governança, Gestão de Riscos, Compliance, LGPD e Cibersegurança.<br><br>📚 Atualmente aprimorando conhecimentos em Python, Linux, Redes de Computadores e Segurança da Informação por meio de projetos e estudos contínuos.</p>
 
+###
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGU2b2Y5dHhwcnptdGRoMzdvd3FuNXh4Z3hwMmdiOXkwemFjb2FhZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.gif"  />
